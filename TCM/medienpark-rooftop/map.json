@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/trotzkyzh.github.io\/mp\/TCM\/start-up-demo\/map.json#start-rooftop"
+                 "value":"\/_\/global\/trotzkyzh.github.io\/mp\/TCM\/medienpark\/map.json#start-rooftop"
                 }],
          "type":"tilelayer",
          "visible":true,
