@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Balcony"
+                 "value":"MedienparkBalcony"
                 }],
          "type":"tilelayer",
          "visible":true,
